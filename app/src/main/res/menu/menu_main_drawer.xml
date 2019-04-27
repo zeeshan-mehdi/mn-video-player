@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+
+    <group android:checkableBehavior="single">
+
+        <!-- Recommended icon color code: #828282 -->
+        <item
+            android:id="@+id/action_youtube_fullscreen"
+            android:icon="@drawable/ic_youtube_fullscreen"
+            android:title="@string/site_youtube" />
+
+    </group>
+
+
+    <item android:title="@string/support">
+        <menu>
+            <item
+                android:id="@+id/action_call"
+                android:icon="@drawable/ic_call"
+                android:title="@string/call" />
+
+            <item
+                android:id="@+id/action_message"
+                android:icon="@drawable/ic_message"
+                android:title="@string/message" />
+
+            <item
+                android:id="@+id/action_messenger"
+                android:icon="@drawable/ic_messenger"
+                android:title="@string/messenger" />
+
+            <item
+                android:id="@+id/action_email"
+                android:icon="@drawable/ic_email"
+                android:title="@string/email" />
+
+        </menu>
+    </item>
+
+    <item android:title="@string/others">
+        <menu>
+            <item
+                android:id="@+id/action_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share" />
+
+            <item
+                android:id="@+id/action_rate_app"
+                android:icon="@drawable/ic_rating"
+                android:title="@string/rate" />
+
+
+            <item
+                android:id="@+id/action_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/exit" />
+
+        </menu>
+    </item>
+
+</menu>

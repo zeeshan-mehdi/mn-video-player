@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="play">Play</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="others">Others</string>
+    <string name="rate">Rate App</string>
+    <string name="exit">Exit App</string>
+    <string name="support">Support</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="messenger">Massenger</string>
+    <string name="email">EMail</string>
+    <string name="site_youtube">Youtube Channel</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="tapAgain">Press Again to Exit</string>
+    <string name="no_internet">Internet Not Found</string>
+    <string name="connect">Connect to the Internet !!!</string>
+    <string name="share_text">Share this App</string>
+    <string name="close_prompt">Do you want to Close App ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="install_messenger">Messenger not Found Please Install !!!</string>
+    <string name="site_youtube_url">https://www.youtube.com/channel/UCaHE7Ww1eJauMc8yalUjjqg/channels</string>
+</resources>
